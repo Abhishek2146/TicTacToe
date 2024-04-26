@@ -1,1 +1,1 @@
-This is a game called tic tac toe.And make your day excited, by playing this game.# TicTacToe
+This is a game project called tic tac toe.# TicTacToe
